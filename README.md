@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Adityaukumar
+- 👀 I’m interested in Artificial IntelLigence,Cognitive Computing,AR/VR,IOT and Data Analytics.
+- 🌱 I’m currently learning Big Data Analytics using AWS services like EMR,Kinesis,Redshift,Firehose etc. 
+- 💞️ I’m looking to collaborate in an Open Source project like RTOS using raspberry pi 
